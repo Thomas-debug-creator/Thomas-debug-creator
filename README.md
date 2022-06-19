@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Master student in Computational Science and Engineering at EPFL and PoliMi. I mainly specialize in:
+- Numerical Analysis
+- Machine Learning
+- Deep Learning
+- Image Processing
+
 <!--
 **Thomas-debug-creator/Thomas-debug-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
