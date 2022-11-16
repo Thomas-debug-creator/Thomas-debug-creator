@@ -7,6 +7,7 @@ I am a Master's student in Computational Science and Engineering at EPFL and Pol
 - Image Processing :camera:
 
 I like to apply these skills to a variety of fields such as:
+- Rocket Dynamics :rocket: 
 - Rock Climbing :climbing:
 - Electromagnetics :magnet:
 - Computational Fluid Dynamics :droplet:
